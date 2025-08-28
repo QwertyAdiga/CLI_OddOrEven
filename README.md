@@ -1,3 +1,2 @@
-OddOrEven game
-This game is also called hand cricket
+This game is also called hand cricket. In this game you play with a computer as an opponent. First you and computer will choose a number as well as odd or even. If the resultant of two of your number is your choice(odd or even) you get the chance to choose Bat or ball. Else computer will choose it. Now if you choose bat, you must give a target to computer and stop computer from scoring more than your runs in order to win. If you choose ball, then defeat computer as early as possible and score more runs than it. In either case you will win the match. Else computer will win
 
