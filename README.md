@@ -1,2 +1,3 @@
-# CLI_OddOrEven
-CLI version of OddOrEven game
+OddOrEven game
+This game is also called hand cricket
+
